@@ -3,10 +3,10 @@
 <!--
 **jundatan/jundatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+ <p align="center"> Hello there! Welcome to my github page 😄 </p>
 <div align="center">
-> Hello there! Welcome to my github page 😄
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jundatan)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jundatan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
