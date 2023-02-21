@@ -1,4 +1,4 @@
-<h1 align="center" font-weight= bold> Bienvenu 👋 </h1>
+<h1 align="center" font-weight= bold> Bienvenu 👋 </h1> 
 
 <!--
 **jundatan/jundatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +7,6 @@
 <div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jundatan)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundatan)](https://github.com/jundatan/github-readme-stats)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jundatan&label=Profile%20views&color=0e75b6&style=flat" alt="jundatan" /> </p>
 
