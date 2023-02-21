@@ -6,7 +6,9 @@
  <p align="center"> Hello there! Welcome to my github page 😄 </p>
 <div align="center">
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jundatan)
+![](https://github.com/jundatan/jundatan/blob/main/starry%20night.gif)
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jundatan)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jundatan&label=Profile%20views&color=0e75b6&style=flat" alt="jundatan" /> </p>
 
