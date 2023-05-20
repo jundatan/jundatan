@@ -9,7 +9,7 @@
 ![](https://github.com/jundatan/jundatan/blob/main/coder.gif)
  
  # 💫 About Me:
-🔭 I’m currently working on Leetcode problem sets such as SQL, Algorithm and Data Structures. (In Java, Python and SQL)<br>🌱 I’m currently learning AI and Algorithm, exploring different languages and reading on any Design Patterns.<br>👨‍💻 I am specializing in Software Engineering and Network Engineering.<br>👀 I'm looking out for any brownfield projects which I can collaborate and add on to improve my confidence in working with large projects.<br>⚡ Fun fact: I have studied Biomedical Engineering and loves to read on quantum mechanics and history.
+👨‍💻 I am specializing in Software Engineering and Network Engineering. <br>🌱 I’m currently learning AI and Algorithm, exploring different languages and reading on any Design Patterns. <br> 🔭 I’m currently working on Leetcode problem sets such as SQL, Algorithm and Data Structures. (In Java, Python and SQL) <br> 👀 I'm looking out for any brownfield projects which I can collaborate and add on to improve my confidence in working with large projects.<br>⚡ Fun fact: I have studied Biomedical Engineering and loves to read on quantum mechanics and history.
 
 
 # 💻 Tech Stack:
