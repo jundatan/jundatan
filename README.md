@@ -13,11 +13,11 @@
  <p align="center"> (Singapore Marina Bay Sands Walkway by the sunset) </p>
 <div align="center">
  
- ![](https://github.com/jundatan/jundatan/blob/main/Bay.jpeg)
+ ![](https://github.com/jundatan/jundatan/blob/main/Bay.JPEG)
  <p align="center"> (Singapore Marina Bay Area by the night) </p>
 <div align="center">
  
- ![](https://github.com/jundatan/jundatan/blob/main/Front.jpeg)
+ ![](https://github.com/jundatan/jundatan/blob/main/Front.JPEG)
  <p align="center"> (Singapore Marina Bay Sands stretch by the night) </p>
 <div align="center">
  
