@@ -8,7 +8,7 @@
 
 ![](https://github.com/jundatan/jundatan/blob/main/coder.gif)
 
-# 📸 My Photography Skill:  
+# My 📸:  
 ![](https://github.com/jundatan/jundatan/blob/main/MBS.jpeg)
  <p align="center"> (Singapore Marina Bay Sands Walkway by the sunset) </p>
 <div align="center">
