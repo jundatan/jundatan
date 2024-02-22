@@ -14,7 +14,7 @@
 <div align="center">
  
  # 💫 About Me:
-👨‍💻 I am interested in specializing in Software Engineering, Solutions Architect, and Network Engineering. <br>🌱 I’m currently learning AWS Cloud and Deployment, exploring different languages and reading on  Design Patterns, and becoming a Full Stack Dev. <br> 🔭 I’m working on getting Certificates for AWS solution Architect. (In Java, Python, and SQL) <br> 👀 I'm looking out for any brownfield projects on which I can collaborate and add on to build my confidence in working with large projects.<br>⚡ Fun fact: I have a high interest in reading about quantum mechanics/theoretical physics/psychology and history.
+👨‍💻 I am interested in specializing in Software Engineering, Solutions Architect, and Network Engineering. <br>🌱 I’m currently learning AWS Cloud and Deployment, exploring different languages and reading on  Design Patterns, and becoming a Full Stack Dev. <br> 🔭 I’m working on getting Certificates for AWS solution Architect. <br> 👀 I'm looking out for any brownfield projects on which I can collaborate and add on to build my confidence in working with large projects.<br>⚡ Fun fact: I have a high interest in reading about quantum mechanics/theoretical physics/psychology and history.
 
 
 # 💻 Tech Stack:
